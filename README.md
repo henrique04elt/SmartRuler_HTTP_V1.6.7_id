@@ -9,6 +9,7 @@ Pensada para automação simples e robusta, com integração a plataformas IoT.
 ## Funcionalidades
 - Acionamento **independente** de 4 relés.
 - **Monitoramento do modem** (saúde/conectividade).
-- Identificação do **IP do NUC** (host supervisório).
+- **Monitoramneto do NUC** (host supervisório).
 - Integração com **IoT Hub** (publicação/consulta de estado).
 - API HTTP simples para status, comando e configuração.
+
